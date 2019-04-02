@@ -32,7 +32,7 @@ Click up
 
 
 Numpad9::
-Pause, Toggle 
+Reload
 
 
 
